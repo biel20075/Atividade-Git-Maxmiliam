@@ -17,11 +17,11 @@ Cada matéria possui suas respectivas anotações, contribuindo para a organiza�
 
  Integrantes
  
-Lucas Henrique
-Gabriel Rodrigues
-Gustavo Americo
-Diogo Gonçalves
-Jean Carlos
+- Lucas Henrique
+- Gabriel Rodrigues
+- Gustavo Americo
+- Diogo Gonçalves
+- Jean Carlos
 
  Objetivo
 
