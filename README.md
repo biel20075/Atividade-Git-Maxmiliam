@@ -27,3 +27,12 @@ Cada matéria possui suas respectivas anotações, contribuindo para a organiza�
 
 O principal objetivo do projeto é utilizar o Git e o GitHub para desenvolver uma atividade colaborativa, permitindo que os integrantes do grupo possam adicionar, modificar e organizar as anotações das matérias.
 
+## Contato
+
+| Integrante | LinkedIn ou e-mail |
+| --- | --- |
+| Lucas Henrique | A informar |
+| Gabriel Rodrigues | A informar |
+| Gustavo Americo | A informar |
+| Diogo Gonçalves | A informar |
+| Jean Carlos | A informar |
