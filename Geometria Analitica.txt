@@ -2,3 +2,13 @@ Geometria é difícil
 
 
 geometria é complicado
+
+A geometria (em grego clássico: γεωμετρία; geo- "terra", -metria "medida") é um ramo da matemática preocupado com questões de forma, tamanho e posição relativa de figuras e com as propriedades dos espaços. Um matemático que trabalha no campo da geometria é denominado de geômetra.
+
+A geometria surgiu independentemente em várias culturas antigas como um conjunto de conhecimentos práticos sobre comprimento, área e volume. Por volta do século III a.C., a geometria foi posta em uma forma axiomática por Euclides, cujo tratamento, chamado de geometria euclidiana, estabeleceu um padrão que perdurou por séculos,[1] ainda que não refletisse a matemática de sua época. Arquimedes, por exemplo, desenvolveu técnicas engenhosas para calcular áreas e volumes sem se preocupar com o tratamento axiomático dos Elementos.
+
+
+A geometria esférica é um exemplo de geometria não-euclidiana. Ela tem aplicações práticas em navegação e astronomia
+A partir da experiência, ou, eventualmente, intuitivamente, as pessoas caracterizam o espaço por certas qualidades fundamentais, que são denominadas axiomas de geometria (como, por exemplo, os axiomas de Hilbert). Esses axiomas não são provados, mas podem ser usados em conjunto com os conceitos matemáticos de ponto, linha reta, linha curva, superfície e sólido para chegar a conclusões lógicas, chamadas de teoremas.
+
+A influência da geometria sobre as ciências físicas foi enorme. Como exemplo, quando o astrônomo Kepler mostrou que as relações entre as velocidades máximas e mínimas dos planetas, propriedades intrínsecas das órbitas, estavam em razões que eram harmônicas — relações musicais —, ele afirmou que essa era uma música que só podia ser percebida com os ouvidos da alma — a mente do geômetra.
